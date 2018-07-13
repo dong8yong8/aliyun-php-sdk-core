@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Aliyun PHP SDK Core",
     "version": "1.1.4",
-    "license": "Copyright 1999-2015 Alibaba Group Holding Ltd.",
+    "license": "proprietary",
     "homepage": "https://www.aliyun.com",
     "authors": [
         {
