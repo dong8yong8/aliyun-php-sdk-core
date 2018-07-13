@@ -15,7 +15,7 @@
         "php": ">=5.3"
     },
     "autoload": {
-        "files": ["src/Config.php"]
+        "files": ["aliyun-php-sdk-core/Config.php"]
     },
     
     "repositories": {
