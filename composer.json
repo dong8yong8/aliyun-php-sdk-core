@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Aliyun PHP SDK Core",
     "version": "1.1.4",
-    "license": "proprietary",
+    "license": "MIT",
     "homepage": "https://www.aliyun.com",
     "authors": [
         {
@@ -11,6 +11,7 @@
             "email": "743139662@qq.com"
         }
     ],
+	"minimum-stability" : "dev",
     "require": {
         "php": ">=5.3"
     },
