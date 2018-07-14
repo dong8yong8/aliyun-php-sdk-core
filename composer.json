@@ -2,16 +2,14 @@
     "name": "dong8yong8/aliyun-php-sdk-core",
     "type": "library",
     "description": "Aliyun PHP SDK Core",
-    "version": "1.1.4",
     "license": "MIT",
-    "homepage": "https://www.aliyun.com",
+    "homepage": "https://github.com/dong8yong8/aliyun-php-sdk-core",
     "authors": [
         {
             "name": "dzhy",
             "email": "743139662@qq.com"
         }
     ],
-	"minimum-stability" : "dev",
     "require": {
         "php": ">=5.3"
     },
